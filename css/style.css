@@ -1,0 +1,71 @@
+.navbar-color {
+    background-color: #D288FF;
+}
+
+#home {
+    background: #D288FF;
+    color: white;
+}
+.button-purple {
+    background-color: #74498f;
+    color: white;
+}
+
+.caixa {    
+    padding: 60px 0;
+    border-bottom: 1px solid #74498f;
+}
+
+#custom-img {
+    max-width: 80%;
+}
+
+footer p a {
+    padding: 5px 15px;
+}
+
+
+/*Fomatação de cupons*/
+
+#cupons {
+    padding: 60px 0;
+}
+
+#cupons img {
+    width: 300px;
+}
+
+#cupons h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+#cupons button {
+    background-color: #D288FF;
+    width: 250px;
+}
+
+/*Fomatação de notícias*/
+
+#noticias {
+    padding: 60px 0;
+}
+
+#noticias img {
+    height: auto;
+    border-radius: 2%;
+}
+
+#noticias .container {
+    margin-right: 19%;
+}
+
+/*Fomatação de contatos.html*/
+
+#formulario .bg-purplelight {
+    border-radius: 15px;
+    background-color: #edcfff;
+}
+
+#formulario .container {
+    margin-bottom: 3%;
+}
